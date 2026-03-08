@@ -1,0 +1,5 @@
+Lenovo      - LCO
+LG          - LCO
+Lapgrade    - NMC 523
+Trilot      - NMC 622
+         
